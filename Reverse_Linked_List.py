@@ -19,7 +19,4 @@ class Solution:
             prev = curr
             curr = next
         self.head = prev  
-      return prev
-
-
-        
+      return prev        
